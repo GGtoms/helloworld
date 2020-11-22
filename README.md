@@ -1,7 +1,2 @@
 # helloworld
-#inlude<iotream>
-using namespace std;
-  int mian()
-  {
-  cout<<"hello ,world"<<endl;
-  }
+这就是一个helleoworld！
